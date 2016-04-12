@@ -1,0 +1,28 @@
+name: Test
+favicon: null
+layout_spectrum: 0.9926661704666913
+typography_spectrum: 0.8078785161487758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2879540924914181
+  lightness: 0.9356831954792142
+  saturation: 0.1903001726604998
+  rhythmicContrast: 0.22865179344080389
+purpose: []
